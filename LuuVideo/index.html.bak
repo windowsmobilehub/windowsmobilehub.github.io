@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>LuuVideo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+  </head>
+  <body>
+    <div class="bootup"> <img src="wmh.png" style="width: 270px; height: 56px;">
+      <br>
+      <br>
+    </div>
+    <div class="bootup">lUUVideo <a href="../index.html" style="color: #48b0fb;">(back)</a></div>
+    <p class="bootup"></p>
+    <hr style="width: 428px; margin-left: 0px; margin-right: auto;"> <br>
+    <div class="content"> &gt; VIDEOS<br>
+      <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><br>
+      </a></div>
+    <div class="content"><a href="pop1/index.html">Your Brain On MDMA</a></div>
+    <div class="content"><a href="pop2/index.html">Fake GameShop Employee Prank!</a></div>
+    <div class="content"><a href="pop1/index.html">Joints vs blunts<br>
+      </a></div>
+    <span style="color: #0000ee;"></span><br>
+    <hr style="width: 428px; margin-left: 0px; margin-right: auto;"><br>
+    <span style="color: #fdf1e9;">&gt; WEEKLY RICK AND MORTY</span><br>
+    <p> <a href="rickandmorty/index.html" style="color: #48b0fb;">Series 6
+        Episode 6</a></p>
+    <div class="content"> </div>
+  </body>
+</html>
